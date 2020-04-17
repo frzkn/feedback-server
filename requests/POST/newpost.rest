@@ -1,0 +1,8 @@
+GET http://localhost:3001/api/post HTTP/1.1
+Content-Type: application/json 
+
+{
+  "username": "frzkn",
+  "title": "Hello world",
+  "content": "lorem ipsum dolor",
+}
