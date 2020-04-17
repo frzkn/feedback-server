@@ -15,5 +15,5 @@ Open [http://localhost:3001/api/post](http://localhost:3001/api/post) to view it
 
 #### Instructions for viewing deployed version
 
-Open [Feedback Portal API](https://feedbackportal.netlify.com)
+Open [Feedback Portal API](http://the-feedback.herokuapp.com/api/post)
 to view it in the browser.
